@@ -1,4 +1,4 @@
-![logo](https://github.com/RohithReddyGouni/RohithReddyGouni/blob/main/GithubProfileBackground.JPG)
+
 
 <h1 align="center">Hi 👋, I'm Rohith Reddy Gouni</h1>
 <h3 align="center">Computer Science | Aspiring Software Engineer</h3>
