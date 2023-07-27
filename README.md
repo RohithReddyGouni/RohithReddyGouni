@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Programming, Data Structures & Algorithms, Full Stack Java Development**
 
-- 👨‍💻 All of my projects are available in [my GITHUB Repos](my GITHUB Repos)
+- 👨‍💻 All of my projects are available in [my GITHUB Repos]
 
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, Bootstrap, Node.js, Mongo DB, Data Structures**
 
