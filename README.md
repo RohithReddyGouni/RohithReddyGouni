@@ -1,3 +1,4 @@
+![logo](https://www.canva.com/design/DAFpz3X5sdk/xfzPp4QGiFaXukoju5cSwg/edit)
 <h1 align="center">Hi 👋, I'm Rohith Reddy Gouni</h1>
 <h3 align="center">Computer Science | Aspiring Software Engineer</h3>
 
